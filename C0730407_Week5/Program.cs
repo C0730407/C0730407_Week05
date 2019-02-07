@@ -10,6 +10,7 @@ namespace C0730407_Week5
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi");
         }
     }
 }
